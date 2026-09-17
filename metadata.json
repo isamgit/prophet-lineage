@@ -1,0 +1,6 @@
+{
+  "name": "Prophet Lineage Frame Extractor",
+  "description": "Extracted frames 1 to 23 from Prophit.mp4 with interactive sequence viewer, gallery inspection, and ZIP download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
